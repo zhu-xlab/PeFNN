@@ -23,7 +23,7 @@
   "epochs": 200,
   "early_stopping": 200,
   "batch_size": 4,
-  "learning_rate": 0.00025,
+  "learning_rate": 0.0005,
   "lr_div_factor": 10000.0,
   "lmbda": 0.0001,
   "strategy": "recurrent",
